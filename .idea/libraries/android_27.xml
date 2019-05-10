@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="android-27">
+    <CLASSES>
+      <root url="file://E:/Android/android-sdk-windows/platforms/android-27" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/Android/android-sdk-windows/platforms/android-27" />
+      <root url="jar://E:/Android/android-sdk-windows/platforms/android-27/android.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://E:/Android/android-sdk-windows/platforms/android-27" recursive="false" />
+    <jarDirectory url="file://E:/Android/android-sdk-windows/platforms/android-27" recursive="false" type="SOURCES" />
+  </library>
+</component>

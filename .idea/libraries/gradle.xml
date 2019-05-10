@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gradle">
+    <CLASSES>
+      <root url="file://E:/Android/gradle-3.3/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/Android/gradle-3.3/lib" recursive="false" />
+  </library>
+</component>

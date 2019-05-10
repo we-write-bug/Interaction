@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-23">
+    <CLASSES>
+      <root url="file://E:/Android/android-sdk-windows/platforms/android-23" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/Android/android-sdk-windows/platforms/android-23" recursive="false" />
+  </library>
+</component>

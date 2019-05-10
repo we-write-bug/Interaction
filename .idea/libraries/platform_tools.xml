@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="platform-tools">
+    <CLASSES>
+      <root url="file://E:/Android/android-sdk-windows/platform-tools" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://E:/Android/android-sdk-windows/platform-tools" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://E:/Android/android-sdk-windows/platform-tools" recursive="false" />
+  </library>
+</component>
