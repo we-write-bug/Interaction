@@ -9,7 +9,8 @@ import org.json.JSONObject;
 public class SendDataToServer {
     public static void main(String[] args){
         Map map=new HashMap();
-        map.put("name","Barney");
+        map.put("robot","RepeatRobot");
+
         SendDataToServer sdts=new SendDataToServer();
         System.out.println("your score is:"+sdts.httpUrlConnPost(map));
 
@@ -66,8 +67,8 @@ public class SendDataToServer {
             bw.close();//使用完关闭
 
             System.out.println("Successfully send data!");
-            if(urlConnection.getResponseCode()==HttpURLConnection.HTTP_OK){//得到服务端的返回码是否连接成功
 
+            if(urlConnection.getResponseCode()==HttpURLConnection.HTTP_OK){//得到服务端的返回码是否连接成功
 
                 //------------字符流读取服务端返回的数据------------
 
